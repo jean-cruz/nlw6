@@ -1,6 +1,6 @@
 ## nlw6 - LetmeAsk
 
-This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.
+This is a project developed during the Next Level Week Together, presented by Rocketseat during June 2021.https://letmeask-20c50.web.app/
 
 ###### Technologies
 
